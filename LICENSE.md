@@ -4,9 +4,9 @@ OASIS invites anyone who knows of any IPR claims to disclose them if they may be
 
 For information on any statements regarding IPR claims related to the work of this project, see the [OASIS OP IPR Statements](https://github.com/oasis-open-projects/administration/blob/master/IPR_STATEMENTS.md) page.
 
+---
 
-
-Apache License
+                                Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
