@@ -1,3 +1,5 @@
+<img src="artwork/[logo filename]" width="##">
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
