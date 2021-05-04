@@ -4,7 +4,7 @@ This Open Project operates under the licenses below plus the [Specification NonA
 
 OASIS invites anyone who knows of any IPR claims to disclose them if they may be essential to the implementation of any of the work of this project so that notice of them may be posted.
 
-For information on any statements regarding IPR claims related to the work of this project, see the [IPR Statements](./IPR-STATEMENTS.md) page.
+For information on any statements regarding IPR claims related to the work of this project, see the [IPR Statements](./IPR-STATEMENT.md) page.
 
 ---
 
