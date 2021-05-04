@@ -4,7 +4,7 @@ The <open-project-name> Project Governing Board sets overall strategic direction
 
 The members of the Project Governing Board for the <open-project-name> are: 
 
-- <person name>, <sponsor organization>, <github-id>, <email address>
-- Todd R. Smith, KYG Trade, todd@kyg.io
-- Ken Montgomery, CompTIA, KMontgomery@comptia.org
+- [note that we expect the pgb members to be pushed to the file from SalesForce.]
+- Todd R. Smith, KYG Trade, [todd@kyg.io](mailto:todd@kyg.io)
+- Ken Montgomery, [CompTIA](https://www.comptia.org/home), [KMontgomery@comptia.org](mailto:KMontgomery@comptia.org)
 
