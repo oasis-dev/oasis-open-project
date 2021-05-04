@@ -1,4 +1,5 @@
-list of sponsors and their logos goes here
+# Sponsors of [Open Project name]
 
-we will have to decide how to distinguish those that have signed the e-CLA from those that haven't. 
-it will need to be clear to the reader who they can count on to have made the ip commitment versus who has not
+OASIS Open and [Open Project name] thank the following organizations who generously support the work, funding the development of the interoperability standards and open source tools that their organizations and customers depend on. Starred organizations have taken the additional step of signing the enterprise contributor license agreement and (optionally) seating a representative on the Project Governing Board. 
+
+[list project sponsors in alphabetic order. Use both company name and logo. Link logo to the organization's website. For organizations that signed the CLA, add a star icon to the right of the name.]
