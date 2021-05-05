@@ -1,4 +1,4 @@
-<img src="artwork/[logo filename]" width="##">
+<img src="artwork/OASIS-Primary-Logo-Full-Colour.png" width="400">
 
 # [Open Project name]
 
