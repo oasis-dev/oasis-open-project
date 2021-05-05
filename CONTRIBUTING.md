@@ -10,4 +10,4 @@ Participation is expected to be consistent with our [Code of Conduct](./CODE-OF-
 
 # Feedback
 
-Questions or comments about this project's work may be composed as GitHub issues or comments or may be directed to the project's general email list at [prj-email-url]@lists.oasis-open-projects.org. General questions about OASIS Open Projects may be directed to OASIS staff at op-admin@lists.oasis-open-projects.org
+Questions or comments about this project's work may be composed as GitHub issues or comments or may be directed to the project's general email list at [prj-email-url]@lists.oasis-open-projects.org. General questions about OASIS Open Projects may be directed to OASIS staff at project-admin@lists.oasis-open-projects.org
