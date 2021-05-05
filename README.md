@@ -8,7 +8,7 @@ For more information on [Open Project short name], see the project's website at 
 
 For more information on the goals of this effort, see the [project charter](./CHARTER.md). 
 
-General questions about OASIS Open Projects may be directed to OASIS staff at op-admin@lists.oasis-open-projects.org
+General questions about OASIS Open Projects may be directed to OASIS staff at project-admin@lists.oasis-open-projects.org
 
 # Other assets
 
