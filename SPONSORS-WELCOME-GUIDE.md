@@ -28,4 +28,4 @@ The OASIS Open Projects Manager will send a direct invitation to your PGB rep to
 Everyone is welcome to join the [project name goes here]  community on Slack. Your PGB rep will be invited to a special channel in our Slack community, where PGB members discuss work items asynchronously. The [OASIS Open Projects Manager](mailto:claudia.rauch@oasis-open.org) can help with any questions or issues.
  
 Welcome aboard!
-/
+
