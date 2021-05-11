@@ -34,13 +34,13 @@ All members of the community must abide by all relevant OASIS policies including
 
    At least one Maintainer must be identified by the PGB at the start of the project. In cooperation with the community and the initial Maintainers, the Technical Steering Committee may recommend additional Maintainer(s) to the PGB.
 
-For more information on the role of maintainer, see the [OASIS Open Projects Maintainers' Guidelines](https://github.com/oasis-open-projects/documentation/blob/master/guides/open-projects-maintainers-guide.md)
+   For more information on the role of maintainer, see the [OASIS Open Projects Maintainers' Guidelines](https://github.com/oasis-open-projects/documentation/blob/master/guides/open-projects-maintainers-guide.md)
 
 * *Editors*: Editors are appointed (or removed) by the relevant TSC. Any Contributor is eligible to be an Editor.
 
-Editors are expected to be actively involved in discussion of Proposals and helping them reach the quality level required to reach Candidate stage, and more generally to actively maintain the overall quality of their TSC's specifications.
+   Editors are expected to be actively involved in discussion of Proposals and helping them reach the quality level required to reach Candidate stage, and more generally to actively maintain the overall quality of their TSC's specifications.
 
-As defined in [Decision Making](#Decision-Making), Editors are empowered to interpret the "Lazy Consensus" of a TSC, subject to direction from the chairs to implement a formally declared decision.
+   As defined in [Decision Making](#Decision-Making), Editors are empowered to interpret the "Lazy Consensus" of a TSC, subject to direction from the chairs to implement a formally declared decision.
 
 ## Starting and maintaining a Technical Steering Committee
 
