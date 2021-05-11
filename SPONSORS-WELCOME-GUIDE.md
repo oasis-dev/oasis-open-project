@@ -5,7 +5,7 @@ All organizations are welcome to support [project name goes here]. If you want t
 Here are some ways to ensure you get the most out of your sponsorship.
  
 ## Get your logo added to the [project name goes here] website
-[Send us](mailto:communications@oasis-open.org) your logo image, along with an associated URL. (A stacked or square version works better than horizontal.)  
+[Send us](member-services@oasis-open.org) your logo image, along with an associated URL. (A stacked or square version works better than horizontal.)  
  
 ## Be represented on the [project name goes here] Project Governing Board (PGB)
 Every [project name goes here] sponsor has the option to be represented on the project's PGB. General PGB responsibilities are described [here](https://github.com/oasis-open-projects/documentation/blob/master/guides/getting-started-guide.md#identifying-roles).
