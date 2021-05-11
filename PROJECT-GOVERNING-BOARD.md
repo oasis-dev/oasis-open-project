@@ -9,3 +9,4 @@ The members of the Project Governing Board for the <open-project-name> are:
 - Todd R. Smith, KYG Trade, [todd@kyg.io](mailto:todd@kyg.io)
 - Ken Montgomery, [CompTIA](https://www.comptia.org/home), [KMontgomery@comptia.org](mailto:KMontgomery@comptia.org)
 - Kevin Cuddeback, [Inveniam](https://inveniam.io/), [kcuddeback@inveniam.io](mailto:kcuddeback@inveniam.io)
+- Thomas Fahey, [Accenture](https://www.accenture.com/us-en), [thomas.m.fahey@accenture.com](mailto:thomas.m.fahey@accenture.com)
