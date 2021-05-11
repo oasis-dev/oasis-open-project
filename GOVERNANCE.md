@@ -20,19 +20,19 @@ All members of the community must abide by all relevant OASIS policies including
 
 * *Technical Steering Committee (TSC)*: Contributors can be invited by the PGB to join the TSC. A TSC generally covers the work on a single project within the Open Project. The TSC has day-to-day oversight of the technical work on the project and works with project maintainers to make sure project's goals are met. The TSC also advises the PGB on the technical agenda such as when works are ready for approval and release. The PGB must publish process documentation outlining the requirements for joining and voting in the project’s TSC.
 
-TSC members must have submitted an individual CLA, and if representing an organization, that organization must have signed and submitted an entity CLA as well.
+   TSC members must have submitted an individual CLA, and if representing an organization, that organization must have signed and submitted an entity CLA as well.
 
-Each TSC has a chair or two co-chairs appointed by the PGB. The chair of a TSC is responsible for coordinating the committee's meetings, reviews, etc. The chair(s) should have a firm understanding of the technology under the TSC's purview, and the [skills of a Technical Project Manager](https://www.jobhero.com/technical-program-manager-job-description/).
+   Each TSC has a chair or two co-chairs appointed by the PGB. The chair of a TSC is responsible for coordinating the committee's meetings, reviews, etc. The chair(s) should have a firm understanding of the technology under the TSC's purview, and the [skills of a Technical Project Manager](https://www.jobhero.com/technical-program-manager-job-description/).
 
 * *Project Governing Board (PGB)*: The PGB oversees the overall strategy and direction of the project as well as the work of the TSCs. The PGB has final approval via Special Majority Vote of project releases and Project Specifications and their submission to the members of OASIS as candidates for OASIS Standard.  
 
-The PGB also follows and is responsible for upholding the [OASIS Open Projects Rules](url to op rules).
+   The PGB also follows and is responsible for upholding the [OASIS Open Projects Rules](url to op rules).
 
-The PGB is comprised of one representative from each Sponsoring organization, and a representative from each TSC (generally the chair). The PGB may create additional PGB member seats for expert representatives to be elected by the TSC or appointed by the PGB.
+   The PGB is comprised of one representative from each Sponsoring organization, and a representative from each TSC (generally the chair). The PGB may create additional PGB member seats for expert representatives to be elected by the TSC or appointed by the PGB.
 
 * *Maintainers*: Maintainers are recognized and trusted experts who serve to implement community goals and consensus design preferences. They demonstrate commitment to the success of the project and provide technical leadership that is broadly respected by the community. 
 
-At least one Maintainer must be identified by the PGB at the start of the project. In cooperation with the community and the initial Maintainers, the Technical Steering Committee may recommend additional Maintainer(s) to the PGB.
+   At least one Maintainer must be identified by the PGB at the start of the project. In cooperation with the community and the initial Maintainers, the Technical Steering Committee may recommend additional Maintainer(s) to the PGB.
 
 For more information on the role of maintainer, see the [OASIS Open Projects Maintainers' Guidelines](https://github.com/oasis-open-projects/documentation/blob/master/guides/open-projects-maintainers-guide.md)
 
