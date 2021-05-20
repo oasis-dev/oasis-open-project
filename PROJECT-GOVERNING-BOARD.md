@@ -1,13 +1,11 @@
 <img src="artwork/OASIS-Primary-Logo-Full-Colour.png" width="200">
 
-# The <open-project-name> Project Governing Board (PGB)
+# <open-project-name> Project Governing Board (PGB)
 
-The <open-project-name> Project Governing Board sets overall strategic direction of the project and formally approves released work products. 
+The Project Governing Board sets overall strategic direction of the <open-project-name> project and formally approves released work products. 
 
-The members of the Project Governing Board for the <open-project-name> are: 
+PGB members include representatives of [<open-project-name> sponsor organizations](https://github.com/<org-url>/oasis-open-project/blob/main/SPONSORS.md) and representatives from the community at-large who serve on the Technical Steering Committee: 
+  
+- <name>, <affiliation-linked-to-website>, <github name?>
 
-- Todd R. Smith, KYG Trade, [todd@kyg.io](mailto:todd@kyg.io)
-- Ken Montgomery, [CompTIA](https://www.comptia.org/home), [KMontgomery@comptia.org](mailto:KMontgomery@comptia.org)
-- Thomas Fahey, [Accenture](https://www.accenture.com/us-en), [thomas.m.fahey@accenture.com](mailto:thomas.m.fahey@accenture.com)
-<!-- removing Kevin Cuddeback, [Inveniam](https://inveniam.io/), [kcuddeback@inveniam.io](mailto:kcuddeback@inveniam.io) pending signing of the e-cla 
-pending - Lisa McAuley, [Global Trade Professionals Alliance (GTPA)](http://www.gtpalliance.com/), [lisamcauley@gtpalliance.com](mailto:lisamcauley@gtpalliance.com) -->
+If you are interested in being part of the <open-project-name> PGB, contact communications@oasis-open.org.
