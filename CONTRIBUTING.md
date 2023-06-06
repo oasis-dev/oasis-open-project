@@ -6,7 +6,7 @@
 
 [Open Project name] is an OASIS Open Project and welcomes participation by anyone, whether affiliated with OASIS or not. Substantive contributions and feedback are invited from all parties, following the common conventions for participation in GitHub public repository projects.
 
-Participation is expected to be consistent with our [Code of Conduct](./CODE-OF-CONDUCT.md), the licenses applicable for each repository, and the acceptance of our Contributor License Agreement, generally at the time of first contribution. 
+Participation is expected to be consistent with our [Code of Conduct](./CODE-OF-CONDUCT.md), the licenses applicable for each repository, and the acceptance of our individual Contributor License Agreement [add link to CLA form for your project], generally at the time of first contribution. 
 
 ## How to Contribute
 
